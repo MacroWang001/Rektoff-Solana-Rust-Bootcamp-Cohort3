@@ -126,4 +126,5 @@ and smart contract security, but support structures are in place to help all stu
 - Lucas and Daniel emphasized a culture of patience,
 persistence, and collaboration, encouraging students to maintain
 engagement and leverage community and instructor support to overcome
+
 learning challenges (33:00).
