@@ -128,3 +128,4 @@ persistence, and collaboration, encouraging students to maintain
 engagement and leverage community and instructor support to overcome
 
 learning challenges (33:00).
+
