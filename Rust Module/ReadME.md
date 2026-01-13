@@ -4,7 +4,7 @@
 
 <div align=center>
     <img
-    src="./images/rektoff-bootcamp.jpeg" alt="Rust Memory Visualizer"
+    src="./images/memory.jpg" alt="Rust Memory Visualizer"
     height = 300
     width = 500
     />
