@@ -129,7 +129,7 @@ While the backend code generation layer relies on **C++ (LLVM)**, most of the su
 
 The original Rust compiler pipeline (that which is used to compile the agave validator):
 
-![rustc_diagram_v2_dark.png](attachment:979ac727-7af6-4726-bbef-8f364dda1e10:rustc_diagram_v2_dark.png)
+![rustc_diagram_v2_dark.png](../images/rustc_diagram_solana_dark.png)
 
 The solana Rust compiler pipeline for sBPF (notice most of the components are the same):
 
@@ -383,4 +383,5 @@ I encourage everyone to read these two great articles on SVM (at your own pace -
 - [Under the Hood of Solana Program Execution From Rust Code to SBF Bytecode](https://ubermensch.blog/under-the-hood-of-solana-program-execution-from-rust-code-to-sbf-bytecode), Farouk Elalem, Jun 11, 2025
 
 - [The Solana eBPF Virtual Machine](https://www.anza.xyz/blog/the-solana-ebpf-virtual-machine), Joe Caulfield, Oct 14, 2024
+
 
