@@ -381,4 +381,5 @@ TODO
 I encourage everyone to read these two great articles on SVM (at your own pace - they are long):
 
 - [Under the Hood of Solana Program Execution From Rust Code to SBF Bytecode](https://ubermensch.blog/under-the-hood-of-solana-program-execution-from-rust-code-to-sbf-bytecode), Farouk Elalem, Jun 11, 2025
+
 - [The Solana eBPF Virtual Machine](https://www.anza.xyz/blog/the-solana-ebpf-virtual-machine), Joe Caulfield, Oct 14, 2024
